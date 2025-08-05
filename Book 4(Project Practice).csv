@@ -1,0 +1,33 @@
+Date,Product Name,Sales Amount,Region,Salesperson
+3/1/2023,Product A,1000,North,John
+3/2/2023,Product B,500,South,Jane
+3/3/2023,Product A,800,North,John
+3/4/2023,Product C,1200,East,Mike
+3/5/2023,Product B,700,South,Jane
+3/6/2023,Product A,900,North,John
+3/7/2023,Product C,1000,East,Mike
+3/8/2023,Product B,600,South,Jane
+3/9/2023,Product A,1100,North,John
+3/10/2023,Product C,1300,East,Mike
+3/11/2023,Product B,800,South,Jane
+3/12/2023,Product A,1000,North,John
+3/13/2023,Product C,1200,East,Mike
+3/14/2023,Product B,700,South,Jane
+3/15/2023,Product A,900,North,John
+3/16/2023,Product C,1100,East,Mike
+3/17/2023,Product B,600,South,Jane
+3/18/2023,Product A,1000,North,John
+3/19/2023,Product C,1300,East,Mike
+3/20/2023,Product B,800,South,Jane
+3/21/2023,Product A,1100,North,John
+3/22/2023,Product C,1200,East,Mike
+3/23/2023,Product B,700,South,Jane
+3/24/2023,Product A,900,North,John
+3/25/2023,Product C,1000,East,Mike
+3/26/2023,Product B,600,South,Jane
+3/27/2023,Product A,1000,North,John
+3/28/2023,Product C,1300,East,Mike
+3/29/2023,Product B,800,South,Jane
+3/30/2023,Product A,1100,North,John
+3/31/2023,Product C,1200,East,Mike
+,,29400,,3
